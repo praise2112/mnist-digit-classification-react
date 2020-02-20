@@ -23,7 +23,7 @@ const useStyles = makeStyles(theme => ({
         height: '91%',
         // backgroundColor: "#80A4AE",
         display: 'inline-block',
-        borderRight: '3px solid black',
+        // borderRight: '3px solid black',
         padding: '2em',
         // marginRight: '1em'
         // marginBottom: '40%'

@@ -258,6 +258,7 @@ const Canvas = (props) => {
                             // color="primary"
                             startIcon={<Icon className={"far fa-lightbulb"} style={{color: 'white', fontSize: '20'}}/>}
                             onClick={handleChange}
+                            disabled={loading}
                         >
                             Predict
                         </ColorButton>
